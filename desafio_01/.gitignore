@@ -9,3 +9,12 @@ Coronavirus_tweets_NLP_Text_Classification_04.ipynb
 Coronavirus_tweets_NLP_Text_Classification_PyTorch_01.ipynb
 arquiteturas_testadas.txt
 GoogleNews-vectors-negative300.bin.gz
+arquiteturas_testadas_fasttext_v2.txt
+arquiteturas_testadas_fasttext.txt
+arquiteturas_testadas_word2vec.txt
+Coronavirus_Tweets_Classification_TensorFlow_FastText.ipynb
+Coronavirus_Tweets_Classification_TensorFlow_Word2Vec.ipynb
+crawl-300d-2M.vec
+crawl-300d-2M.vec.zip
+wiki-news-300d-1M.vec
+wiki-news-300d-1M.vec.zip
