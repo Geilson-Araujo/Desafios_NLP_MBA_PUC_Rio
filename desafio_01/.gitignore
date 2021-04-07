@@ -6,7 +6,7 @@ glove.twitter.27B.100d.txt
 glove.twitter.27B.200d.txt
 Coronavirus_tweets_NLP_Text_Classification_02.ipynb
 Coronavirus_tweets_NLP_Text_Classification_04.ipynb
-Coronavirus_tweets_NLP_Text_Classification_PyTorch_01.ipynb
+# coronavirus_tweets_pytorch_01.ipynb
 arquiteturas_testadas.txt
 GoogleNews-vectors-negative300.bin.gz
 arquiteturas_testadas_fasttext_v2.txt
